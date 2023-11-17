@@ -1,0 +1,12 @@
+---
+title: "Progress Report - Map Addendum"
+author: "Orion Freed"
+format: html
+editor: visual
+---
+
+## The Map Tab
+
+We have decided to prioritize work on the front end part of the project as we believe it will lead to a working product sooner. While we still feel strongly that our final product must utilize the USAID API so that it can provide up to date information for the foreseeable future, it will still function using a manually loaded CSV.
+
+One of the tabs accessible in the Shiny app will be a world map. This was part of our original plan, but has been expanded upon.
