@@ -9,4 +9,6 @@ editor: visual
 
 We have decided to prioritize work on the front end part of the project as we believe it will lead to a working product sooner. While we still feel strongly that our final product must utilize the USAID API so that it can provide up to date information for the foreseeable future, it will still function using a manually loaded CSV.
 
-One of the tabs accessible in the Shiny app will be a world map. This was part of our original plan, but has been expanded upon.
+One of the tabs accessible in the Shiny app will be a world map. This was part of our original plan, but has been expanded upon. The current plan is to create an interface wherein the user is presented with a map of the world, and when they click on one of its countries they are given a breakdown of the relevant data for said country.
+
+At bare minimum, this will be a text breakdown of the proportion of relevant aid given through local versus non local sources. However it is our preference to create a more visually engaging display since one of our goals is to make the USAID data more accessible to those without so much technical experience. Ideally selecting a country will open up a simple diagram, probably a pie chart or stacked bar plot, showing the local/non-local divide.
